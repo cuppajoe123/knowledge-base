@@ -8,4 +8,4 @@ __Pointers and Memory (Stanford)__ http://cslibrary.stanford.edu/102/PointersAnd
 
 __Pointers and Arrays in C__ https://github.com/jflaherty/ptrtut13 <br />
 
-
+__Beej's Guide to C Programming__ https://beej.us/guide/bgc/ <br />
