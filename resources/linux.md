@@ -56,3 +56,6 @@ A guide for Windows users who want to test drive Linux.
 
 __5 Best Linux Distros to Learn Linux__ - https://linuxhint.com/best-linux-distros-learn-linux/ <br />
 A list of some beginner friendly Linux distributions aimed at beginners. Best not to overthink it and just choose one :)
+
+__Repology.org__ - https://repology.org/ \
+A database of packages from different repositories/distros, allowing you to compare versions and other information.
