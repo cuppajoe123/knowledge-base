@@ -11,3 +11,19 @@ __Pointers and Memory (Stanford)__ - http://cslibrary.stanford.edu/102/PointersA
 __Pointers and Arrays in C__ - https://github.com/jflaherty/ptrtut13 <br />
 
 __Beej's Guide to C Programming__ - https://beej.us/guide/bgc/ <br />
+
+__C Reference__ - https://en.cppreference.com/w/c <br />
+
+__Bit Twiddling Hacks in C__ - https://graphics.stanford.edu/~seander/bithacks.html <br />
+
+__Advanced Programming in the Unix Environment__ - https://en.wikipedia.org/wiki/Advanced_Programming_in_the_Unix_Environment <br />
+
+__Cprogramming.com__ - https://www.cprogramming.com/tutorial/c-tutorial.html <br />
+
+__The GNU C Library__ - https://www.gnu.org/software/libc/manual/html_node/index.html
+
+__CCAN__ - Useful C code snippets__ - https://ccodearchive.net/ <br />
+
+__C Traps and Pitfalls__ - https://archive.org/details/ctrapspitfalls0000koen <br />
+
+__Expert C Programming: Deep C Secrets__ - https://www.goodreads.com/book/show/198207.Expert_C_Programming <br />
