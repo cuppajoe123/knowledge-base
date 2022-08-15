@@ -27,3 +27,5 @@ __CCAN__ - Useful C code snippets__ - https://ccodearchive.net/ <br />
 __C Traps and Pitfalls__ - https://archive.org/details/ctrapspitfalls0000koen <br />
 
 __Expert C Programming: Deep C Secrets__ - https://www.goodreads.com/book/show/198207.Expert_C_Programming <br />
+
+__Writing 2D Games in C using SDL by Thomas Lively__ - https://www.youtube.com/watch?v=yFLa3ln16w0 <br />
